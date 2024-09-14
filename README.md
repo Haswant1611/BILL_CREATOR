@@ -16,7 +16,7 @@ An Bill Generator project built with React and TailwindCSS. Add items, quantity,
 ### Instalation
 
 ```
-git clone https://github.com/hourmeng12/invoice-generator
+git clone https://github.com/Haswant1611/BILL_CREATOR
 
 npm install
 
@@ -25,5 +25,4 @@ npm start / npm run build
 
 ### Meta
 
-Hourmeng Khy
-
+Haswanth Kumar
